@@ -10,7 +10,7 @@ JAVA + MySQL - '책 재고 관리'
 ## ⚙️개발 환경
 JAVA - eclipse
 
-SQL - MySQL
+Database - MySQL
 
 ## 📌주요 기능
 #### 책 추가
